@@ -2,7 +2,7 @@
 
 - ⚡ Profile: [LinkedIn](https://www.linkedin.com/in/anushkaykulkarni/), [Resume](https://github.com/anu-shka-k/anu-shka-k/blob/main/LaTeX/resume_v1.pdf)
 - 📫 How to reach me: anushkaykulkarni at gmail dot com
-- 
+
 <!--
 **anu-shka-k/anu-shka-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
